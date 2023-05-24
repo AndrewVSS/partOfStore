@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3",
+    "list.js": "^2.3.1",
+    "sweetalert2": "^11.7.5"
+  }
+}
